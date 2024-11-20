@@ -40,7 +40,7 @@ Understanding how various features impact pricing is crucial for manufacturers, 
 - **Outlier Analysis**: Examine the effect of outliers, particularly for premium and high-performance vehicles.
 - **Trend Analysis**: Analyze trends by region and over time to understand the impact of external factors like economic conditions.
 
-#### Questions to Explore:
+#### Questions Explored:
 1. How do Engine size and Power output affect vehicle pricing?
 2. What role does Mileage play in determining prices?
 3. How does the number of Seats influence pricing?
