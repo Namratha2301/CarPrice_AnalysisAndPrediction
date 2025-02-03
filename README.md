@@ -14,7 +14,7 @@ Random Forest:
 
 ### Steps Followed
 
-1. **Data Import and Cleaning**: We began by importing the dataset and performing necessary cleaning to ensure the data was ready for analysis.
+1. **Data Import and Cleaning**: I began by importing the dataset and performing necessary cleaning to ensure the data was ready for analysis.
 
 2. **Exploratory Data Analysis (EDA)**: Conducted EDA to explore relationships between individual features and vehicle prices, helping to identify key correlations and draw insightful conclusions.
 
